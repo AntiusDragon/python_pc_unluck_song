@@ -70,7 +70,7 @@ Would like to run this project locally? Open terminal and follow these steps:
         * Select **Start a program**.
         * In the **Program/scripts** field, enter
             ```
-            C:\Users\Name\AppData\Local\Programs\Python\Python313\python.exe
+            C:\Python313\pythonw.exe
             ```
         * Add arguments (path to your script)
             ```
